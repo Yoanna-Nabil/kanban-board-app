@@ -60,7 +60,9 @@ export const createTask = async (payload: CreateTaskPayload): Promise<Task> => {
 //  Update an existing task (partial patch)
 export const updateTask = async (id: string, payload: UpdateTaskPayload): Promise<Task> => {
   try {
-    const response = await apiClient.patch<Task>(`/tasks/${id}`, payload);
+    console.log("API_BASE_URL:", API_BASE_URL);
+console.log("PUT URL:", `/tasks/${id}`);
+    const response = await apiClient.put<Task>(`/tasks/${id}`, payload);
     return response.data;
   } catch (error) {
     console.error(`Error updating task ${id}:`, error);
