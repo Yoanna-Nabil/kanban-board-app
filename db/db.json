@@ -1,0 +1,154 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Design homepage",
+      "description": "Include hero section, navigation bar, and footer",
+      "column": "done"
+    },
+    {
+      "id": "2",
+      "title": "API integration",
+      "description": "Connect backend to REST API endpoints",
+      "column": "done"
+    },
+    {
+      "id": "3",
+      "title": "Unit tests",
+      "description": "Write tests for utility functions and hooks",
+      "column": "backlog"
+    },
+    {
+      "id": "4",
+      "title": "Performance audit",
+      "description": "Lighthouse scores and bundle analysis",
+      "column": "backlog"
+    },
+    {
+      "id": "5",
+      "title": "Notification system",
+      "description": "User notifications and in-app alerts",
+      "column": "backlog"
+    },
+    {
+      "id": "6",
+      "title": "User settings page",
+      "description": "Profile editing, preferences, and account management",
+      "column": "backlog"
+    },
+    {
+      "id": "7",
+      "title": "Authentication flow",
+      "description": "Implement login, signup, and password reset screens",
+      "column": "done"
+    },
+    {
+      "id": "8",
+      "title": "File upload component",
+      "description": "Drag and drop file upload with preview",
+      "column": "review"
+    },
+    {
+      "id": "9",
+      "title": "Dark mode support",
+      "description": "Add theme toggle and CSS variable switching",
+      "column": "done"
+    },
+    {
+      "id": "10",
+      "title": "Dashboard layout",
+      "description": "Build responsive sidebar and main content area",
+      "column": "done"
+    },
+    {
+      "id": "11",
+      "title": "Design system tokens",
+      "description": "Set up color palette, typography, and spacing scales",
+      "column": "backlog"
+    },
+    {
+      "id": "12",
+      "title": "Dark mode support",
+      "description": "Add theme toggle and CSS variable switching",
+      "column": "review"
+    },
+    {
+      "id": "13",
+      "title": "Design system tokens",
+      "description": "Set up color palette, typography, and spacing scales",
+      "column": "review"
+    },
+    {
+      "id": "14",
+      "title": "Design system",
+      "description": "Set up color palette, typography",
+      "column": "in_progress"
+    },
+    {
+      "id": "23e4",
+      "title": "In Progress Task",
+      "description": "In Progress Task",
+      "column": "backlog"
+    },
+    {
+      "id": "f40f",
+      "title": "In Progress Task Successfully",
+      "description": "In Progress Task Successfully",
+      "column": "in_progress"
+    },
+    {
+      "id": "8d95",
+      "title": "In Progress Task Serious",
+      "description": "In Progress Task Serious",
+      "column": "in_progress"
+    },
+    {
+      "id": "aefd",
+      "title": "Design Dashboard",
+      "description": "Design Dashboard Successful",
+      "column": "in_progress"
+    },
+    {
+      "id": "5a45",
+      "title": "Are You Okay?",
+      "description": "Yahweh, I'm fine",
+      "column": "review"
+    },
+    {
+      "id": "159b",
+      "title": "Add New Task",
+      "description": "Add New Task Successful",
+      "column": "review"
+    },
+    {
+      "id": "d0fa",
+      "title": "Add New Task",
+      "description": "Add New Task",
+      "column": "done"
+    },
+    {
+      "id": "f794",
+      "title": "Add New Task",
+      "description": "Add New Task",
+      "column": "review"
+    },
+    {
+      "id": "fca2",
+      "title": "Add New Task",
+      "description": "Add New Task",
+      "column": "in_progress"
+    },
+    {
+      "id": "a672",
+      "title": "Add New Task",
+      "description": "Add New Task",
+      "column": "in_progress"
+    },
+    {
+      "id": "b368",
+      "title": "Add New Task",
+      "description": "Add New Task",
+      "column": "backlog"
+    }
+  ]
+}
